@@ -2,6 +2,7 @@
   "name": "api-assignment",
   "version": "1.0.0",
   "description": "Node.js + Express + Sequelize + PostgreSQL — API Assignment",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
